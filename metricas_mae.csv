@@ -1,0 +1,3 @@
+metodo,MAE_piezas,MAE_MXN,MAE_%_venta_promedio
+Holt-Winters,79.0,1185.0,0.10937435102244251
+Ingenuo (última venta),22225.0,333375.0,30.770189259161835

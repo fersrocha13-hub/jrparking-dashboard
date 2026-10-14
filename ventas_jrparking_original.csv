@@ -1,0 +1,37 @@
+Fecha,Mes,Producto/servicio,Categoría,Cantidad,Precio unitario,Subtotal,IVA,Venta total,Cliente/segmento,Zona/sucursal,Vendedor/canal
+01/01/2023,Enero,Caja Limonera,Inyección de plástico,"72,883",$14.00,"$1,020,362.00","$163,257.92","$1,183,619.92",Agrícola,"Juárez, Nuevo León",Venta directa
+01/02/2023,Febrero,Caja Nailea,Inyección de plástico,"74,880",$14.00,"$1,048,320.00","$167,731.20","$1,216,051.20",Agrícola,"Juárez, Nuevo León",Venta directa
+01/03/2023,Marzo,Caja Limonera,Inyección de plástico,"81,869",$14.00,"$1,146,166.00","$183,386.56","$1,329,552.56",Agrícola,"Juárez, Nuevo León",Venta en línea
+01/04/2023,Abril,Caja Limonera,Inyección de plástico,"89,856",$14.00,"$1,257,984.00","$201,277.44","$1,459,261.44",Agrícola,"Juárez, Nuevo León",Venta directa
+01/05/2023,Mayo,Caja Nailea,Inyección de plástico,"99,840",$14.00,"$1,397,760.00","$223,641.60","$1,621,401.60",Agrícola,"Juárez, Nuevo León",Venta directa
+01/06/2023,Junio,Caja Limonera,Inyección de plástico,"104,832",$14.00,"$1,467,648.00","$234,823.68","$1,702,471.68",Agrícola,"Juárez, Nuevo León",Venta en línea
+01/07/2023,Julio,Caja Limonera,Inyección de plástico,"99,840",$14.00,"$1,397,760.00","$223,641.60","$1,621,401.60",Agrícola,"Juárez, Nuevo León",Venta directa
+01/08/2023,Agosto,Caja Limonera,Inyección de plástico,"94,848",$14.00,"$1,327,872.00","$212,459.52","$1,540,331.52",Agrícola,"Juárez, Nuevo León",Venta directa
+01/09/2023,Septiembre,Caja Nailea,Inyección de plástico,"84,864",$14.00,"$1,188,096.00","$190,095.36","$1,378,191.36",Agrícola,"Juárez, Nuevo León",Venta en línea
+01/10/2023,Octubre,Caja Limonera,Inyección de plástico,"74,880",$14.00,"$1,048,320.00","$167,731.20","$1,216,051.20",Agrícola,"Juárez, Nuevo León",Venta directa
+01/11/2023,Noviembre,Caja Nailea,Inyección de plástico,"64,896",$14.00,"$908,544.00","$145,367.04","$1,053,911.04",Agrícola,"Juárez, Nuevo León",Venta directa
+01/12/2023,Diciembre,Caja Limonera,Inyección de plástico,"54,912",$14.00,"$768,768.00","$123,002.88","$891,770.88",Agrícola,"Juárez, Nuevo León",Venta en línea
+01/01/2024,Enero,Caja Limonera,Inyección de plástico,"76,527",$14.50,"$1,109,641.50","$177,542.64","$1,287,184.14",Agrícola,"Juárez, Nuevo León",Venta directa
+01/02/2024,Febrero,Caja Nailea,Inyección de plástico,"78,624",$14.50,"$1,140,048.00","$182,407.68","$1,322,455.68",Agrícola,"Juárez, Nuevo León",Venta directa
+01/03/2024,Marzo,Caja Limonera,Inyección de plástico,"85,962",$14.50,"$1,246,449.00","$199,431.84","$1,445,880.84",Agrícola,"Juárez, Nuevo León",Venta en línea
+01/04/2024,Abril,Caja Limonera,Inyección de plástico,"94,349",$14.50,"$1,368,060.50","$218,889.68","$1,586,950.18",Agrícola,"Juárez, Nuevo León",Venta directa
+01/05/2024,Mayo,Caja Nailea,Inyección de plástico,"104,832",$14.50,"$1,520,064.00","$243,210.24","$1,763,274.24",Agrícola,"Juárez, Nuevo León",Venta directa
+01/06/2024,Junio,Caja Limonera,Inyección de plástico,"110,074",$14.50,"$1,596,073.00","$255,371.68","$1,851,444.68",Agrícola,"Juárez, Nuevo León",Venta en línea
+01/07/2024,Julio,Caja Limonera,Inyección de plástico,"104,832",$14.50,"$1,520,064.00","$243,210.24","$1,763,274.24",Agrícola,"Juárez, Nuevo León",Venta directa
+01/08/2024,Agosto,Caja Limonera,Inyección de plástico,"99,590",$14.50,"$1,444,055.00","$231,048.80","$1,675,103.80",Agrícola,"Juárez, Nuevo León",Venta directa
+01/09/2024,Septiembre,Caja Nailea,Inyección de plástico,"89,107",$14.50,"$1,292,051.50","$206,728.24","$1,498,779.74",Agrícola,"Juárez, Nuevo León",Venta en línea
+01/10/2024,Octubre,Caja Limonera,Inyección de plástico,"78,624",$14.50,"$1,140,048.00","$182,407.68","$1,322,455.68",Agrícola,"Juárez, Nuevo León",Venta directa
+01/11/2024,Noviembre,Caja Nailea,Inyección de plástico,"68,141",$14.50,"$988,044.50","$158,087.12","$1,146,131.62",Agrícola,"Juárez, Nuevo León",Venta directa
+01/12/2024,Diciembre,Caja Limonera,Inyección de plástico,"57,658",$14.50,"$836,041.00","$133,766.56","$969,807.56",Agrícola,"Juárez, Nuevo León",Venta en línea
+01/01/2025,Enero,Caja Limonera,Inyección de plástico,"81,119",$15.00,"$1,216,785.00","$194,685.60","$1,411,470.60",Agrícola,"Juárez, Nuevo León",Venta directa
+01/02/2025,Febrero,Caja Nailea,Inyección de plástico,"83,341",$15.00,"$1,250,115.00","$200,018.40","$1,450,133.40",Agrícola,"Juárez, Nuevo León",Venta directa
+01/03/2025,Marzo,Caja Limonera,Inyección de plástico,"91,120",$15.00,"$1,366,800.00","$218,688.00","$1,585,488.00",Agrícola,"Juárez, Nuevo León",Venta en línea
+01/04/2025,Abril,Caja Limonera,Inyección de plástico,"100,010",$15.00,"$1,500,150.00","$240,024.00","$1,740,174.00",Agrícola,"Juárez, Nuevo León",Venta directa
+01/05/2025,Mayo,Caja Nailea,Inyección de plástico,"111,122",$15.00,"$1,666,830.00","$266,692.80","$1,933,522.80",Agrícola,"Juárez, Nuevo León",Venta directa
+01/06/2025,Junio,Caja Limonera,Inyección de plástico,"116,678",$15.00,"$1,750,170.00","$280,027.20","$2,030,197.20",Agrícola,"Juárez, Nuevo León",Venta en línea
+01/07/2025,Julio,Caja Limonera,Inyección de plástico,"111,122",$15.00,"$1,666,830.00","$266,692.80","$1,933,522.80",Agrícola,"Juárez, Nuevo León",Venta directa
+01/08/2025,Agosto,Caja Limonera,Inyección de plástico,"105,566",$15.00,"$1,583,490.00","$253,358.40","$1,836,848.40",Agrícola,"Juárez, Nuevo León",Venta directa
+01/09/2025,Septiembre,Caja Nailea,Inyección de plástico,"94,454",$15.00,"$1,416,810.00","$226,689.60","$1,643,499.60",Agrícola,"Juárez, Nuevo León",Venta en línea
+01/10/2025,Octubre,Caja Limonera,Inyección de plástico,"83,341",$15.00,"$1,250,115.00","$200,018.40","$1,450,133.40",Agrícola,"Juárez, Nuevo León",Venta directa
+01/11/2025,Noviembre,Caja Nailea,Inyección de plástico,"72,229",$15.00,"$1,083,435.00","$173,349.60","$1,256,784.60",Agrícola,"Juárez, Nuevo León",Venta directa
+01/12/2025,Diciembre,Caja Limonera,Inyección de plástico,"61,117",$15.00,"$916,755.00","$146,680.80","$1,063,435.80",Agrícola,"Juárez, Nuevo León",Venta en línea

@@ -1,0 +1,37 @@
+fecha,mes_texto,producto,categoria,cantidad,precio_unitario,subtotal,iva,venta_total,segmento,zona,canal,anio,mes
+2023-01-01,Enero,Caja Limonera,Inyección de plástico,72883,14.0,1020362.0,163257.92,1183619.92,Agrícola,"Juárez, Nuevo León",Venta directa,2023,1
+2023-02-01,Febrero,Caja Nailea,Inyección de plástico,74880,14.0,1048320.0,167731.2,1216051.2,Agrícola,"Juárez, Nuevo León",Venta directa,2023,2
+2023-03-01,Marzo,Caja Limonera,Inyección de plástico,81869,14.0,1146166.0,183386.56,1329552.56,Agrícola,"Juárez, Nuevo León",Venta en línea,2023,3
+2023-04-01,Abril,Caja Limonera,Inyección de plástico,89856,14.0,1257984.0,201277.44,1459261.44,Agrícola,"Juárez, Nuevo León",Venta directa,2023,4
+2023-05-01,Mayo,Caja Nailea,Inyección de plástico,99840,14.0,1397760.0,223641.6,1621401.6,Agrícola,"Juárez, Nuevo León",Venta directa,2023,5
+2023-06-01,Junio,Caja Limonera,Inyección de plástico,104832,14.0,1467648.0,234823.68,1702471.68,Agrícola,"Juárez, Nuevo León",Venta en línea,2023,6
+2023-07-01,Julio,Caja Limonera,Inyección de plástico,99840,14.0,1397760.0,223641.6,1621401.6,Agrícola,"Juárez, Nuevo León",Venta directa,2023,7
+2023-08-01,Agosto,Caja Limonera,Inyección de plástico,94848,14.0,1327872.0,212459.52,1540331.52,Agrícola,"Juárez, Nuevo León",Venta directa,2023,8
+2023-09-01,Septiembre,Caja Nailea,Inyección de plástico,84864,14.0,1188096.0,190095.36,1378191.36,Agrícola,"Juárez, Nuevo León",Venta en línea,2023,9
+2023-10-01,Octubre,Caja Limonera,Inyección de plástico,74880,14.0,1048320.0,167731.2,1216051.2,Agrícola,"Juárez, Nuevo León",Venta directa,2023,10
+2023-11-01,Noviembre,Caja Nailea,Inyección de plástico,64896,14.0,908544.0,145367.04,1053911.04,Agrícola,"Juárez, Nuevo León",Venta directa,2023,11
+2023-12-01,Diciembre,Caja Limonera,Inyección de plástico,54912,14.0,768768.0,123002.88,891770.88,Agrícola,"Juárez, Nuevo León",Venta en línea,2023,12
+2024-01-01,Enero,Caja Limonera,Inyección de plástico,76527,14.5,1109641.5,177542.64,1287184.14,Agrícola,"Juárez, Nuevo León",Venta directa,2024,1
+2024-02-01,Febrero,Caja Nailea,Inyección de plástico,78624,14.5,1140048.0,182407.68,1322455.68,Agrícola,"Juárez, Nuevo León",Venta directa,2024,2
+2024-03-01,Marzo,Caja Limonera,Inyección de plástico,85962,14.5,1246449.0,199431.84,1445880.84,Agrícola,"Juárez, Nuevo León",Venta en línea,2024,3
+2024-04-01,Abril,Caja Limonera,Inyección de plástico,94349,14.5,1368060.5,218889.68,1586950.18,Agrícola,"Juárez, Nuevo León",Venta directa,2024,4
+2024-05-01,Mayo,Caja Nailea,Inyección de plástico,104832,14.5,1520064.0,243210.24,1763274.24,Agrícola,"Juárez, Nuevo León",Venta directa,2024,5
+2024-06-01,Junio,Caja Limonera,Inyección de plástico,110074,14.5,1596073.0,255371.68,1851444.68,Agrícola,"Juárez, Nuevo León",Venta en línea,2024,6
+2024-07-01,Julio,Caja Limonera,Inyección de plástico,104832,14.5,1520064.0,243210.24,1763274.24,Agrícola,"Juárez, Nuevo León",Venta directa,2024,7
+2024-08-01,Agosto,Caja Limonera,Inyección de plástico,99590,14.5,1444055.0,231048.8,1675103.8,Agrícola,"Juárez, Nuevo León",Venta directa,2024,8
+2024-09-01,Septiembre,Caja Nailea,Inyección de plástico,89107,14.5,1292051.5,206728.24,1498779.74,Agrícola,"Juárez, Nuevo León",Venta en línea,2024,9
+2024-10-01,Octubre,Caja Limonera,Inyección de plástico,78624,14.5,1140048.0,182407.68,1322455.68,Agrícola,"Juárez, Nuevo León",Venta directa,2024,10
+2024-11-01,Noviembre,Caja Nailea,Inyección de plástico,68141,14.5,988044.5,158087.12,1146131.62,Agrícola,"Juárez, Nuevo León",Venta directa,2024,11
+2024-12-01,Diciembre,Caja Limonera,Inyección de plástico,57658,14.5,836041.0,133766.56,969807.56,Agrícola,"Juárez, Nuevo León",Venta en línea,2024,12
+2025-01-01,Enero,Caja Limonera,Inyección de plástico,81119,15.0,1216785.0,194685.6,1411470.6,Agrícola,"Juárez, Nuevo León",Venta directa,2025,1
+2025-02-01,Febrero,Caja Nailea,Inyección de plástico,83341,15.0,1250115.0,200018.4,1450133.4,Agrícola,"Juárez, Nuevo León",Venta directa,2025,2
+2025-03-01,Marzo,Caja Limonera,Inyección de plástico,91120,15.0,1366800.0,218688.0,1585488.0,Agrícola,"Juárez, Nuevo León",Venta en línea,2025,3
+2025-04-01,Abril,Caja Limonera,Inyección de plástico,100010,15.0,1500150.0,240024.0,1740174.0,Agrícola,"Juárez, Nuevo León",Venta directa,2025,4
+2025-05-01,Mayo,Caja Nailea,Inyección de plástico,111122,15.0,1666830.0,266692.8,1933522.8,Agrícola,"Juárez, Nuevo León",Venta directa,2025,5
+2025-06-01,Junio,Caja Limonera,Inyección de plástico,116678,15.0,1750170.0,280027.2,2030197.2,Agrícola,"Juárez, Nuevo León",Venta en línea,2025,6
+2025-07-01,Julio,Caja Limonera,Inyección de plástico,111122,15.0,1666830.0,266692.8,1933522.8,Agrícola,"Juárez, Nuevo León",Venta directa,2025,7
+2025-08-01,Agosto,Caja Limonera,Inyección de plástico,105566,15.0,1583490.0,253358.4,1836848.4,Agrícola,"Juárez, Nuevo León",Venta directa,2025,8
+2025-09-01,Septiembre,Caja Nailea,Inyección de plástico,94454,15.0,1416810.0,226689.6,1643499.6,Agrícola,"Juárez, Nuevo León",Venta en línea,2025,9
+2025-10-01,Octubre,Caja Limonera,Inyección de plástico,83341,15.0,1250115.0,200018.4,1450133.4,Agrícola,"Juárez, Nuevo León",Venta directa,2025,10
+2025-11-01,Noviembre,Caja Nailea,Inyección de plástico,72229,15.0,1083435.0,173349.6,1256784.6,Agrícola,"Juárez, Nuevo León",Venta directa,2025,11
+2025-12-01,Diciembre,Caja Limonera,Inyección de plástico,61117,15.0,916755.0,146680.8,1063435.8,Agrícola,"Juárez, Nuevo León",Venta en línea,2025,12
